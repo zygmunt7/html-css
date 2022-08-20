@@ -1,0 +1,42 @@
+.container-size{
+  background-color: #474F43;
+  height: 20px;
+}
+
+.container{
+  background-color: #B7BF9E;
+}
+
+.page-header{
+  border: dotted 1px black;
+  display: flex;
+}
+
+.header-button{
+  padding: 2px;
+  margin: 20px;
+  border: solid 1px black;
+  width: 33%;
+}
+
+.page-content{
+  background-color: aqua;
+  border: solid 1px black;
+
+  padding: 150px;
+
+}
+.page-button{
+  border: solid 1px black;
+  margin: 20px;
+
+}
+table{
+  width: 100%;
+}
+th{
+  border: solid 1px black;
+}
+td{
+  border: solid 1px black;
+}
