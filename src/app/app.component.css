@@ -29,14 +29,17 @@
 .page-button{
   border: solid 1px black;
   margin: 20px;
+  text-align: end;
 
 }
 table{
   width: 100%;
 }
 th{
-  border: solid 1px black;
+  border:solid 1px black;
+  text-align: left;
 }
 td{
   border: solid 1px black;
+  text-align: center;
 }
